@@ -1,0 +1,101 @@
+
+
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz</string>
+    <!-- welcome message -->
+    <string name="welcome">Welcome to the \"MOVIE QUIZ APP\" !\n
+        Here, we will test your knowledge about the Academy Awards
+        and about 2 classic movies.\n
+        Sit back, relax and enjoy !</string>
+<string name="hint">Firstname Lastname</string>
+
+
+
+    <!-- question 1 subquestion 1 and answers -->
+    <string name="question_1">1. \"Jurassic Park\" </string>
+    <string name="question_1.1">1.1 From which year is the movie \" Jurassic Park \" ?</string>
+    <string name="Q11A1">1992</string>
+    <string name="Q11A2">1993</string>
+    <string name="Q11A3">1994</string>
+    <string name="Q11A4">1995</string>
+
+    <!-- question 1 subquestion 2 and answers -->
+    <string name="question_1.2">1.2 Who was the director ?</string>
+    <string name="Q12A4">Steven Spielberg </string>
+
+    <!-- question 1 subquestion 3 and answers -->
+    <string name="question_1.3">1.3 How many Academy Awards (= Oscars) did it win ?</string>
+    <string name="Q13A1">1</string>
+    <string name="Q13A2">2</string>
+    <string name="Q13A3">3</string>
+    <string name="Q13A4">4</string>
+
+
+    <!-- question 2 subquestion 1 and answers -->
+    <string name="question_2">2. \"Titanic\" </string>
+    <string name="question_2.1">2.1 From which year is the movie \"Titanic\" ?</string>
+    <string name="Q21A1">1996</string>
+    <string name="Q21A2">1997</string>
+    <string name="Q21A3">1998</string>
+    <string name="Q21A4">1999</string>
+
+    <!-- question 2 subquestion 2 and answers -->
+    <string name="question_2.2">2.2 In which year does the movie take place ?</string>
+    <string name="Q22A1">1909</string>
+    <string name="Q22A2">1910</string>
+    <string name="Q22A3">1911</string>
+    <string name="Q22A4">1912</string>
+
+
+    <!-- question 1 subquestion 3 and answers -->
+    <string name="question_2.3">2.3 How many Academy Awards (= Oscars) did it win ?</string>
+    <string name="Q23A1">5</string>
+    <string name="Q23A2">7</string>
+    <string name="Q23A3">9</string>
+    <string name="Q23A4">11</string>
+
+    <!-- question 3 subquestion 1 and answers -->
+    <string name="question_3">3. \"Academy Awards\" </string>
+    <string name="question_3.1">3.1 The Academy Awards, which will take place on February 26<sup><small>th</small></sup>, 2017, will be the </string>
+    <string name="Q31A1">88<sup><small>th</small></sup> edition</string>
+    <string name="Q31A2">89<sup><small>th</small></sup> edition</string>
+    <string name="Q31A3">90<sup><small>th</small></sup> edition</string>
+    <string name="Q31A4">91<sup><small>st</small></sup> edition</string>
+
+
+    <!-- question 2 subquestion 2 and answers -->
+    <string name="question_3.2">3.2 Which of the following movies did not win the Big Five Academy Awards,
+        consisting of the five most important Academy Awards? </string>
+    <string name="Q32A1">Gone With The Wind</string>
+    <string name="Q32A2">It Happened One Night</string>
+    <string name="Q32A3">One Flew Over The Cuckoo\'s Nest</string>
+    <string name="Q32A4">The Silence Of The Lambs</string>
+
+
+    <!-- question 3 subquestion 3 and answers -->
+    <string name="question_3.3">3.3 Which movie won all Academy Awards for which it was nominated ?</string>
+    <string name="Q33A1">American Beauty</string>
+    <string name="Q33A2">Titanic</string>
+    <string name="Q33A3">The Lord Of The Rings : The Return Of The King</string>
+    <string name="Q33A4">The Silence Of The Lambs</string>
+
+    <!-- question 3 subquestion 4 and answers -->
+    <string name="question_3.4">3.4 Who of the following persons has already presented the Academy Awards Show ? (2 answers)</string>
+    <string name="Q34A1">Neil Patrick Harris</string>
+    <string name="Q34A2">Jimmy Fallon</string>
+    <string name="Q34A3">Tom Hanks</string>
+    <string name="Q34A4">Ellen DeGeneres</string>
+
+
+
+<!-- name for the finish button-->
+    <string name="button_finish">Finish</string>
+
+    <string name="initial_score"></string>
+
+    <!-- score textview-->
+    <string name="score">Score : <xliff:g id="score" example="0">%d</xliff:g> / <xliff:g id="score_max" example="0">%d</xliff:g></string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--padding for the radiogroup of the subquestions (e.g. 1.1, 1.2,...) -->
+    <dimen name="radiogroup_padding">16dp</dimen>
+    <!--padding bottom for the introduction of the app (welcome text) -->
+    <dimen name="padding_bottom_welcome">16dp</dimen>
+    <!-- margin for the main questions -->
+    <dimen name="margin_main_sub">4dp</dimen>
+    <!--padding for the score -->
+    <dimen name="padding_score">16dp</dimen>
+</resources>
